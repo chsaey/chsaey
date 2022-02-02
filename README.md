@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **chsaeydev@gmail.com**
 
-- 📄 Resume [https://docs.google.com/document/d/1nWDoqUsLnCNuWttGBZrTIAYq6q-5VKNx9OYgpp_YAvc/edit?usp=sharing](https://docs.google.com/document/d/1nWDoqUsLnCNuWttGBZrTIAYq6q-5VKNx9OYgpp_YAvc/edit?usp=sharing)
+- 📄 Get a copy of my [Resume](https://docs.google.com/document/d/1nWDoqUsLnCNuWttGBZrTIAYq6q-5VKNx9OYgpp_YAvc/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
