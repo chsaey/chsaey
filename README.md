@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Charles Saeyang</h1>
 <h3 align="center">Software Developer born and raised in the Greater Seattle area. Love video games, esports, and live streams!</h3>
 
-- 🔭 I’m currently working on **TBD**
+- 🔭 I’m currently working on **building out a personal website**
 
 - 🌱 I’m currently learning **AWS, Full stack development, Game development**
 
