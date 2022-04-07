@@ -3,13 +3,11 @@
 
 - 🔭 I’m currently working on **building out a personal website**
 
-- 🌱 I’m currently learning **AWS, Full stack development, Game development**
+- 🌱 I’m currently learning **AWS, Full stack development(React and Spring boot), Game development**
 
 - 👨‍💻 All of my projects are available at [TBD](TBD)
 
 - 📝 I regularly write articles on [TBD](TBD)
-
-- 💬 Ask me about **Video Games!**
 
 - 📫 How to reach me **chsaeydev@gmail.com**
 
